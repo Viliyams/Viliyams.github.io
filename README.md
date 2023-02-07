@@ -1,8 +1,7 @@
 # Viliyams.github.io
 https://www.youtube.com/@CorruptClip
-# personal web
+# personal website
 Welcome to my personal website! This site serves as an online portfolio and a platform for me to showcase my skills, projects, and interests. Here, you can learn more about me, read about my experiences, and see some of the things I've created. Feel free to take a look around and get in touch if you have any questions or just want to say hi!
-
 
 
 ## Features
