@@ -13,7 +13,7 @@ Welcome to my personal website! This site serves as an online portfolio and a pl
     - this Web open in any kind of devices
 
 ## Contact
--patelviliatams@gmail.com
+-patelviliyams@gmail.com
 
 ## Acknowledgments
 -I make this website using Github.com and termux you can download termux in Google play store and contect me for creat your own website.
