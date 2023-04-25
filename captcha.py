@@ -1,7 +1,7 @@
 import requests, re
 
 client = requests.Session()
-login_url = "https://accounts.snapchat.com/accounts/login"
+login_url = "https://accounts.snapchat.com/accounts/v2/login"
 token_url= "https://www.google.com/recaptcha/enterprise/reload?k=6LezjdAZAAAAAD1FaW81QpkkplPNzCNnIOU5anHw"
 
 class reCAPTCHA:
